@@ -1,4 +1,4 @@
-# Conversor Binário com Interface (Tkinter)
+# Cotação Euro/Dólar (Tkinter)
 
 Este é um projeto simples em Python com interface gráfica usando **Tkinter**.  
 Ele mostra a cotação atual Dólar/Euro em relação ao valor do Real :
