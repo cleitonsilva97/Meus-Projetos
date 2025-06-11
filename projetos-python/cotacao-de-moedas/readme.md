@@ -10,4 +10,4 @@ Ele mostra a cotação atual Dólar/Euro em relação ao valor do Real :
 3. Clique em `"Buscar Cotações"`
 4. Veja o resultado na tela
 
-## Aceito Sugestões, pois ainda sou Estudante
+## Aceito Sugestões, pois ainda sou Estudante!
